@@ -10,4 +10,4 @@ This is a simple Unit Converter application developed using Jetpack Compose for 
 - Clear button to reset the input and output fields.
 - Error handling for invalid inputs.
 
-![Unit Converter](UnitConverter.png)
+<img src="app/src/main/java/com/example/unitconverter/UnitConverter.png" alt="Unit Converter" width="300"/>
